@@ -1,1 +1,1 @@
-This file has been opened for practicing Git.
+This file has been opened for practising Git.
